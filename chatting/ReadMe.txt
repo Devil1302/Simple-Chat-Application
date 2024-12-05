@@ -1,4 +1,4 @@
-WhatsApp Clone Project app made by Yashaswi Saurabh
+Chat-Clone Project app made by Yashaswi Saurabh
 
 Chat Application Server:
 The provided code defines a Java-based Graphic User Interface application for a chat server using the Swing library. Here's a detailed summary of the key components and functionality:
